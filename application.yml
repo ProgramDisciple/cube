@@ -1,2 +1,6 @@
 name: test-YAML
 environment: test
+ORACLE_CHECK: oracle.jdbc.driver.OracleDriverc
+UPLOAD_SFTP: jdbcc
+SFTPUSER: userc
+SFTPPASS: passwed+c
